@@ -1,0 +1,30 @@
+.movie_container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.movie_container_cards{
+    align-items: center;
+    /* width: 100%;
+    height: 100%; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+     */
+     margin: 30px;
+     padding: 30px;
+}
+.movie_container_grid{
+    display: flex;
+
+}
+.movie_container_image  img{
+    width: 30%;
+    
+}
+
+
